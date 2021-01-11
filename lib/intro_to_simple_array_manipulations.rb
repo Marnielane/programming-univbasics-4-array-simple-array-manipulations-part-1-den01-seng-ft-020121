@@ -15,5 +15,7 @@ def using_pop(array)
   antarctica = @continents.pop 
 end
 
-def
+def pop_with_args(array)
+  @dog_breeds = ["Great Dane", "Golden Retriever", "Chihuahua", "Shiba Inu"]
+  @small_breeds
 end
